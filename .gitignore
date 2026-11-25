@@ -1,0 +1,13 @@
+# Arquivos temporários do Excel / Office
+~$*
+*.tmp
+
+# Arquivos temporários e backups do Power BI
+*.pbix.bak
+.pbi/
+*.abf
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
